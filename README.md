@@ -17,3 +17,5 @@ følg disse trinnene for å sette opp prosjektet
 ### Eksempel på kjøring
 Bruk følgende kommando i terminalen for å starte backupen manuelt:
   >python backup.py --source /data --target /backup
+
+![Crazeh](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CPT-TheoryOfComp-Binary-Search-Python.png/500px-CPT-TheoryOfComp-Binary-Search-Python.png?utm_source=no.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
