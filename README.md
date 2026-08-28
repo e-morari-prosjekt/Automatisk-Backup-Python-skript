@@ -1,3 +1,5 @@
+![Logos](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1280px-Python_logo_and_wordmark.svg.png?utm_source=no.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
+
 # Automatisk-Backup-Python-skript
 Dette prosjektet er et enkelt Python-verktøy designet for å ta automatisk sikkerhetskopi av valgte mapper på en lokal server.
 
