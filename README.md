@@ -5,7 +5,7 @@ Dette prosjektet er et enkelt Python-verktøy designet for å ta automatisk sikk
 
 ### Funksjoner og Krav
 Følgende funksjoner er inkludert i nåværende versjon:
-  * Automatisk komprimering ia python zipfile-biblioteket
+  * Automatisk komprimering via [Python zipfile-biblioteket](https://docs.python.org/3/library/index.html)
   * Loggføring av alle handlinger til en tekstfil
   * Varsling på e-post dersom en feil oppstår
 
